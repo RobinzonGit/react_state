@@ -2,7 +2,7 @@
   "name": "react_state",
   "version": "0.1.0",
   "private": true,
-  "publisher": "https://robinzongit.github.io/React_state/",
+  "publisher": "https://robinzongit.github.io/React_state",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
